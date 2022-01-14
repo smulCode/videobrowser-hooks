@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/videobrowser-hooks/static/css/main.6fa0c11c.css",
+    "main.js": "/videobrowser-hooks/static/js/main.8c0b0b17.js",
+    "index.html": "/videobrowser-hooks/index.html",
+    "main.6fa0c11c.css.map": "/videobrowser-hooks/static/css/main.6fa0c11c.css.map",
+    "main.8c0b0b17.js.map": "/videobrowser-hooks/static/js/main.8c0b0b17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa0c11c.css",
+    "static/js/main.8c0b0b17.js"
+  ]
+}
